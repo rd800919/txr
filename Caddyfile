@@ -1,0 +1,9 @@
+:80 {
+root /usr/local/caddy/www
+gzip
+browse
+proxy /sfdkscif localhost:10000 {
+     websocket
+     header_upstream -Origin
+     }
+}
