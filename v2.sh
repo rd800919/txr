@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-v2-ui;
+v2-ui
 6;
 60500;;
 
