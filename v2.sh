@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 v2-ui
-$6
-60500;;
+echo 6
+echo 60500
 
 
